@@ -1,0 +1,15 @@
+.iconButtonLogin:hover{
+    background-color: #130E0A !important;
+}
+
+.iconButtonLoginMain:hover{
+    background-color: rgb(255, 191, 0) !important;
+}
+.MuiDropzoneArea-root{
+    width: 70% !important;
+    min-height: 30px !important;
+    margin-top: 20px;
+}
+.MuiTypography-root.MuiDropzoneArea-text.MuiTypography-h5 {
+    font-size: 1em;
+}
