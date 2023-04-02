@@ -17,7 +17,7 @@
 
 - npm
   ```sh
-  npm install npm@latest -g
+  npm install npm@latest -g --force
   ```
 
 ### Installation
