@@ -26,7 +26,7 @@ _To get started with the project._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/eric-ricky/auth-mui-template.git
+   git clone https://github.com/cyrille800/hackathon.git
    ```
 2. Install NPM packages
    ```sh
