@@ -5,12 +5,6 @@
 
 <!-- GETTING STARTED -->
 
-## Getting Started
-
-![Product Preview][product-preview]
-
-- [Demo](https://auth-mui-template.vercel.app/)
-
 ### Built With
 
 - [React.js](https://reactjs.org/)
